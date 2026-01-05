@@ -1,6 +1,6 @@
 # Banking77 Intent Classification Benchmarking with LLMs
 
-This repository evaluates the performance of multiple LLM (LLMs) on the Banking77 intent classification dataset.  
+This repository evaluates the performance of multiple LLM  on the Banking77 intent classification dataset.  
 The goal is to measure how accurately modern LLMs can categorize real-world banking customer queries into predefined intent labels.
 
 The project compares OpenAI and Anthropic models using a consistent evaluation pipeline, with additional prompt optimization using DSPy.
